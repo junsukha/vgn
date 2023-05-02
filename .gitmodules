@@ -1,0 +1,3 @@
+[submodule "vgn"]
+	path = vgn
+	url = https://github.com/ethz-asl/vgn
